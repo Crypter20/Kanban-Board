@@ -11,7 +11,7 @@ html {
 
 body {
     margin: 0;
-    background-image: url("./trees.jpg");
+    background-image: url("../image/trees.jpg");
     background-size: cover;
     background-position: 50% 60%;
     background-attachment: fixed;
